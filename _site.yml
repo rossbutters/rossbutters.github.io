@@ -1,0 +1,20 @@
+name: Ross-website
+output_dir: '.'
+navbar:
+  title: Ross Butters
+  left:
+  - text: About Me
+    href: about.html 
+    
+
+  right:
+  - icon: fa-envelope fa-lg
+    href: mailto:rbutters@ucdavis.edu
+  - icon: fa-github fa-lg
+    href: http://github.com/rossbutters
+  
+output:
+  html_document:
+    theme: flatly
+    css: style.css
+    
