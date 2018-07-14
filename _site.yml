@@ -3,6 +3,8 @@ output_dir: '.'
 navbar:
   title: Ross Butters
   left:
+  - text: Home
+    href: index.html
   - text: About Me
     href: about.html 
     
