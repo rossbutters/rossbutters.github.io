@@ -19,4 +19,6 @@ output:
   html_document:
     theme: flatly
     css: style.css
+    lib_dir: site_libs
+    self_contained: no
     
