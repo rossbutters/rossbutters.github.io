@@ -3,12 +3,16 @@ output_dir: '.'
 navbar:
   title: Ross Butters
   left:
-  - text: "Home"
+  - text: "About"
     href: index.html
-  - text: "CV"
+  - text: "C.V."
     href: cv.html
-  - text: "About Me"
-    href: about.html 
+  - text: "Research"
+    menu:
+    - text: Dissertation 
+      href: dissertation.html
+    - text: Working Papers
+      href: working_papers.html
 
     
 
