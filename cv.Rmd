@@ -1,0 +1,6 @@
+---
+title: "cv"
+output: html_document
+---
+
+CV as PDF
