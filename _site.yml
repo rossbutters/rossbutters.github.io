@@ -24,7 +24,7 @@ navbar:
   
 output:
   html_document:
-    theme: flatly
+    theme: cosmo
     css: style.css
     lib_dir: site_libs
     self_contained: no
