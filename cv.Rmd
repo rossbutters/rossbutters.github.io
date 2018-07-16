@@ -18,21 +18,10 @@ output: html_document
   }
 </style>
 
-<div class="column-left">
 Below is a copy of my CV, which can also be downloaded [as a pdf](Butters_CV_6_29_18.pdf).
 
 <object data="Butters_CV_6_29_18.pdf" type="application/pdf" width="100%" height=800>
 <iframe src="Butters_CV_6_29_18.pdf" width="100%" height="100%" style="border: none;"></iframe>
 </object>
-</div>
-
-<div class="column-right">
-**Ross Butters** <br />
-Department of Political Science <br />
-University of California, Davis <br />
-One Shields Avenue <br />
-Davis, CA 95816 <br />
-rbutters@ucdavis.edu 
-</div>
 
 
