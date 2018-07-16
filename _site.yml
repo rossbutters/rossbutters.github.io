@@ -13,7 +13,8 @@ navbar:
       href: dissertation.html
     - text: Working Papers
       href: working_papers.html
-
+  - text: "Teaching"
+    href: teaching.html
     
 
   right:

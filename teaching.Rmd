@@ -1,0 +1,56 @@
+---
+title: ""
+output: html_document
+---
+
+<style>
+  .column-left{
+    float: left;
+    width: 40%;
+    text-align: left;
+  }
+.column-right{
+  float: right;
+  width: 40%;
+  text-align: left;
+}
+</style>
+
+<div class="column-left">
+
+### **Teaching Interests:**
+
+Introduction to American Politics
+
+Political Behavior 
+
+Social Networks and Influence in Politics
+
+Survey and Research Design
+
+Political and Policy Analysis 
+</div>
+
+
+<div class="column-right">
+### **Teaching Experience:**
+
+#### *Associate Instructor*
+
+Introduction to American Politics, Sept. 2017-Dec. 2017
+
+#### *Teaching Assistant*
+
+Research Methods in Politics and Policy, Jan. 2018-Present
+
+Policy Analysis in California, Jan. 2018-Present June 2017-August 2017 
+
+Mass Media and Politics, March 2016-June 2016
+
+Introduction to Comparative Politics, Jan. 2016-March 2016
+
+American Government: The Presidency, April 2015-June 2015
+
+West European Politics: German Politics Jan. 2015-March 2015
+</div>
+
