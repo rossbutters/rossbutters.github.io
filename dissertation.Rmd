@@ -4,3 +4,34 @@ output: html_document
 ---
 
 
+<style>
+  .column-left{
+    float: left;
+    width: 70%;
+    text-align: left;
+  }
+  
+  .column-right{
+    float: right;
+    width: 25%;
+    text-align: left;
+  }
+</style>
+
+
+<div class="column-left">
+
+Some things about the dissertation
+
+</div>
+
+
+
+<div class="column-right">
+**Ross Butters** <br />
+Department of Political Science <br />
+University of California, Davis <br />
+One Shields Avenue <br />
+Davis, CA 95816 <br />
+rbutters@ucdavis.edu 
+</div>

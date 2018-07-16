@@ -6,14 +6,19 @@ output: html_document
 <style>
   .column-left{
     float: left;
-    width: 40%;
+    width: 30%;
     text-align: left;
   }
-.column-right{
-  float: right;
-  width: 40%;
-  text-align: left;
-}
+  .column-center{
+    display: inline-block;
+    width: 47%;
+    text-align: left;
+  }
+  .column-right{
+    float: right;
+    width: 23%;
+    text-align: left;
+  }
 </style>
 
 <div class="column-left">
@@ -24,7 +29,7 @@ Introduction to American Politics
 
 Political Behavior 
 
-Social Networks and Influence in Politics
+Social Networks and Influence 
 
 Survey and Research Design
 
@@ -32,12 +37,12 @@ Political and Policy Analysis
 </div>
 
 
-<div class="column-right">
+<div class="column-center">
 ### **Teaching Experience:**
 
 #### *Associate Instructor*
 
-Introduction to American Politics, Sept. 2017-Dec. 2017
+[Introduction to American Politics, Sept. 2017-Dec. 2017](Pol_1_Syllabus_2017F.pdf)
 
 #### *Teaching Assistant*
 
@@ -52,5 +57,15 @@ Introduction to Comparative Politics, Jan. 2016-March 2016
 American Government: The Presidency, April 2015-June 2015
 
 West European Politics: German Politics Jan. 2015-March 2015
+</div>
+
+<div class="column-right">
+<br>
+**Ross Butters** <br />
+Department of Political Science <br />
+University of California, Davis <br />
+One Shields Avenue <br />
+Davis, CA 95816 <br />
+rbutters@ucdavis.edu 
 </div>
 
