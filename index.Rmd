@@ -5,6 +5,9 @@ output: html_document
 
 [//]: (!!!some sort of note)
 
+[//]: (Theme options in _site.yml include: default, cerulean, journal, flatly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, and yeti --- I like cerulean, spacelab, cosmo, lumen, and paper)
+
+
 <br>
 
 My research focuses on the impact of social factors on individual political attitudes and behavior. Specifically, I am interested in understanding how composition of political communication networks, and the information therein, influences political attitudes and participation of individuals. I also examine what contextual factors influence the composition of these networks.
