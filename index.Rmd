@@ -38,6 +38,16 @@ I am a PhD candidate in the Department of Political Science at the University of
 
 My larger research agenda encompasses political participation, behavior, psychology, polarization, and partisan sorting. My current works focus on how political information is communicated between individual voters. I am most interested in how political discourse and disagreement sustained in the mass public. Prior to graduate school, I received my BA in political science from The Ohio State University before becoming a labor market analyst for the State of Ohio. 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125325302-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-125325302-1');
+</script>
+
 </div>
 
 
