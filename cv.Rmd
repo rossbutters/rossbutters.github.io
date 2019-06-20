@@ -24,12 +24,4 @@ Below is a copy of my CV, which can also be downloaded [as a pdf](Butters_CV_3_1
 <iframe src="Butters_CV_3_15_19.pdf" width="100%" height="100%" style="border: none;"></iframe>
 </object>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125325302-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-125325302-1');
-</script>
