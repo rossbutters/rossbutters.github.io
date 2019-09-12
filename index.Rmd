@@ -53,7 +53,7 @@ My larger research agenda encompasses political participation, behavior, psychol
 
 <div class="column-right">
 <div style= "float:left;position: relative; top: 0px;">
-![](IMG_7002-2-rbutters-Ross_Butters-rbutters@ucdavis.edu.jpg){ width=70% } 
+![](Butters_Image.png){ width=70% } 
 
 **Ross Butters** <br />
 Department of Political Science <br />
