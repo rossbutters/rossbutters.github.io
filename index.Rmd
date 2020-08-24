@@ -34,7 +34,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <div class="column-left">
-I am a PhD candidate in the Department of Political Science at the University of California, Davis. My dissertation focuses on the impact of social factors on individual political attitudes and behavior. Specifically, I am interested in understanding how the composition of political communication networks, and the information therein, influences political attitudes and participation of individuals. I also examine what contextual factors influence the composition of these networks. 
+I am an Adjunct Assistant Professor at the University of California Center Sacramento. I received my PhD from the Department of Political Science at the University of California, Davis. My research focuses on the impact of social factors on individual political attitudes and behavior. Specifically, I am interested in understanding how the composition of political communication networks, and the information therein, influences political attitudes and participation of individuals. I also examine what contextual factors influence the composition of these networks. 
 
 My larger research agenda encompasses political participation, behavior, psychology, polarization, and partisan sorting. My current works focus on how political information is communicated between individual voters. I am most interested in how political discourse and disagreement are sustained in the mass public. Prior to graduate school, I received my BA in political science from The Ohio State University before becoming a labor market analyst for the State of Ohio. 
 
@@ -56,10 +56,9 @@ My larger research agenda encompasses political participation, behavior, psychol
 ![](Butters_Image.png){ width=70% } 
 
 **Ross Butters** <br />
-Department of Political Science <br />
-University of California, Davis <br />
-One Shields Avenue <br />
-Davis, CA 95816 <br />
+University of California Center Sacramento <br />
+1130 K Street, Suite LL22 <br />
+Sacramento, CA 95814 <br />
 rbutters@ucdavis.edu 
 </div>
 </div>

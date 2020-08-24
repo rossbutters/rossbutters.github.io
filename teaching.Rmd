@@ -25,7 +25,7 @@ output: html_document
 
 ### **Teaching Interests:**
 
-Introduction to American Politics
+American Politics
 
 Political Behavior 
 
@@ -33,12 +33,22 @@ Social Networks and Influence
 
 Survey and Research Design
 
-Political and Policy Analysis 
+Political and Policy Analysis in California
 </div>
 
 
 <div class="column-center">
 ### **Teaching Experience:**
+
+#### *Adjunct Assistant Professor*
+
+[Research Methods for Political Science and Public Policy, Aug. 2020-Present](Pol 196E Syllabus.pdf)
+
+[Special Studies in American Politics, June 2020-Present](POL 193-Syllabus.pdf)
+
+Seminar in American Politics, Aug. 2020-Present
+
+[Policy Analysis in California, June 2020-Aug. 2020](Pol 195 Syllabus.pdf)
 
 #### *Associate Instructor*
 
@@ -46,9 +56,9 @@ Political and Policy Analysis
 
 #### *Teaching Assistant*
 
-Research Methods in Politics and Policy, Jan. 2018-Present
+Research Methods in Politics and Policy, Jan. 2018-June 2020
 
-Policy Analysis in California, Jan. 2018-Present June 2017-August 2017 
+Policy Analysis in California, Jan. 2018-June 2020, June 2017-August 2017 
 
 Mass Media and Politics, March 2016-June 2016
 
@@ -73,10 +83,9 @@ West European Politics: German Politics Jan. 2015-March 2015
 <div class="column-right">
 <br>
 **Ross Butters** <br />
-Department of Political Science <br />
-University of California, Davis <br />
-One Shields Avenue <br />
-Davis, CA 95816 <br />
+University of California Center Sacramento <br />
+1130 K Street, Suite LL22 <br />
+Sacramento, CA 95814 <br />
 rbutters@ucdavis.edu 
 </div>
 
